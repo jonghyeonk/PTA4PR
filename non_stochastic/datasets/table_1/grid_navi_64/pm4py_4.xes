@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log xes.version="1849-2016" xes.features="nested-attributes" xmlns="http://www.xes-standard.org/">
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext" />
+	<string key="origin" value="csv" />
+	<trace>
+		<string key="concept:name" value="case 14" />
+		<event>
+			<string key="concept:name" value="(move loc-x5-y0 loc-x5-y1)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y1 loc-x5-y2)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y2 loc-x5-y3)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y3 loc-x5-y4)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y4 loc-x4-y5)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x4-y5 loc-x5-y6)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y6 loc-x5-y7)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y7 loc-x5-y8)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y8 loc-x5-y9)" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case 11" />
+		<event>
+			<string key="concept:name" value="(move loc-x5-y0 loc-x5-y1)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y1 loc-x5-y2)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y2 loc-x5-y3)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y3 loc-x4-y4)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x4-y4 loc-x4-y5)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x4-y5 loc-x5-y6)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y6 loc-x5-y7)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y7 loc-x5-y8)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y8 loc-x5-y9)" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case 28" />
+		<event>
+			<string key="concept:name" value="(move loc-x5-y0 loc-x5-y1)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y1 loc-x5-y2)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y2 loc-x5-y3)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y3 loc-x6-y4)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x6-y4 loc-x5-y5)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y5 loc-x5-y6)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y6 loc-x5-y7)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y7 loc-x5-y8)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y8 loc-x5-y9)" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case 24" />
+		<event>
+			<string key="concept:name" value="(move loc-x5-y0 loc-x5-y1)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y1 loc-x5-y2)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y2 loc-x5-y3)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y3 loc-x5-y4)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y4 loc-x5-y5)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y5 loc-x6-y6)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x6-y6 loc-x6-y7)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x6-y7 loc-x5-y8)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y8 loc-x5-y9)" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case 27" />
+		<event>
+			<string key="concept:name" value="(move loc-x5-y0 loc-x5-y1)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y1 loc-x5-y2)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y2 loc-x5-y3)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y3 loc-x5-y4)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y4 loc-x6-y5)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x6-y5 loc-x6-y6)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x6-y6 loc-x6-y7)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x6-y7 loc-x5-y8)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y8 loc-x5-y9)" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case 7" />
+		<event>
+			<string key="concept:name" value="(move loc-x5-y0 loc-x5-y1)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y1 loc-x5-y2)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y2 loc-x4-y3)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x4-y3 loc-x4-y4)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x4-y4 loc-x4-y5)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x4-y5 loc-x4-y6)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x4-y6 loc-x5-y7)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y7 loc-x5-y8)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y8 loc-x5-y9)" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case 16" />
+		<event>
+			<string key="concept:name" value="(move loc-x5-y0 loc-x5-y1)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y1 loc-x5-y2)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y2 loc-x5-y3)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y3 loc-x5-y4)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y4 loc-x5-y5)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y5 loc-x4-y6)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x4-y6 loc-x5-y7)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y7 loc-x5-y8)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y8 loc-x5-y9)" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case 29" />
+		<event>
+			<string key="concept:name" value="(move loc-x5-y0 loc-x5-y1)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y1 loc-x5-y2)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y2 loc-x5-y3)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y3 loc-x6-y4)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x6-y4 loc-x6-y5)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x6-y5 loc-x5-y6)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y6 loc-x5-y7)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y7 loc-x5-y8)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y8 loc-x5-y9)" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case 34" />
+		<event>
+			<string key="concept:name" value="(move loc-x5-y0 loc-x5-y1)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y1 loc-x6-y2)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x6-y2 loc-x5-y3)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y3 loc-x5-y4)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y4 loc-x5-y5)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y5 loc-x5-y6)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y6 loc-x5-y7)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y7 loc-x5-y8)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y8 loc-x5-y9)" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case 21" />
+		<event>
+			<string key="concept:name" value="(move loc-x5-y0 loc-x5-y1)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y1 loc-x5-y2)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y2 loc-x5-y3)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y3 loc-x5-y4)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y4 loc-x5-y5)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y5 loc-x5-y6)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y6 loc-x6-y7)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x6-y7 loc-x5-y8)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y8 loc-x5-y9)" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case 9" />
+		<event>
+			<string key="concept:name" value="(move loc-x5-y0 loc-x5-y1)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y1 loc-x5-y2)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y2 loc-x4-y3)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x4-y3 loc-x5-y4)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y4 loc-x5-y5)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y5 loc-x5-y6)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y6 loc-x5-y7)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y7 loc-x5-y8)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y8 loc-x5-y9)" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case 35" />
+		<event>
+			<string key="concept:name" value="(move loc-x5-y0 loc-x6-y1)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x6-y1 loc-x5-y2)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y2 loc-x5-y3)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y3 loc-x5-y4)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y4 loc-x5-y5)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y5 loc-x5-y6)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y6 loc-x5-y7)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y7 loc-x5-y8)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y8 loc-x5-y9)" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case 8" />
+		<event>
+			<string key="concept:name" value="(move loc-x5-y0 loc-x5-y1)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y1 loc-x5-y2)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y2 loc-x4-y3)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x4-y3 loc-x4-y4)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x4-y4 loc-x5-y5)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y5 loc-x5-y6)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y6 loc-x5-y7)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y7 loc-x5-y8)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y8 loc-x5-y9)" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case 18" />
+		<event>
+			<string key="concept:name" value="(move loc-x5-y0 loc-x5-y1)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y1 loc-x5-y2)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y2 loc-x5-y3)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y3 loc-x5-y4)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y4 loc-x5-y5)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y5 loc-x5-y6)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y6 loc-x5-y7)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y7 loc-x4-y8)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x4-y8 loc-x5-y9)" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case 3" />
+		<event>
+			<string key="concept:name" value="(move loc-x5-y0 loc-x4-y1)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x4-y1 loc-x4-y2)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x4-y2 loc-x5-y3)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y3 loc-x5-y4)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y4 loc-x5-y5)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y5 loc-x5-y6)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y6 loc-x5-y7)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y7 loc-x5-y8)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y8 loc-x5-y9)" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case 2" />
+		<event>
+			<string key="concept:name" value="(move loc-x5-y0 loc-x4-y1)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x4-y1 loc-x4-y2)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x4-y2 loc-x4-y3)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x4-y3 loc-x4-y4)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x4-y4 loc-x4-y5)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x4-y5 loc-x5-y6)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y6 loc-x5-y7)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y7 loc-x5-y8)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y8 loc-x5-y9)" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case 31" />
+		<event>
+			<string key="concept:name" value="(move loc-x5-y0 loc-x5-y1)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y1 loc-x5-y2)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y2 loc-x5-y3)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y3 loc-x6-y4)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x6-y4 loc-x6-y5)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x6-y5 loc-x6-y6)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x6-y6 loc-x6-y7)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x6-y7 loc-x5-y8)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y8 loc-x5-y9)" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case 26" />
+		<event>
+			<string key="concept:name" value="(move loc-x5-y0 loc-x5-y1)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y1 loc-x5-y2)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y2 loc-x5-y3)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y3 loc-x5-y4)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y4 loc-x6-y5)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x6-y5 loc-x6-y6)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x6-y6 loc-x5-y7)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y7 loc-x5-y8)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y8 loc-x5-y9)" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case 17" />
+		<event>
+			<string key="concept:name" value="(move loc-x5-y0 loc-x5-y1)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y1 loc-x5-y2)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y2 loc-x5-y3)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y3 loc-x5-y4)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y4 loc-x5-y5)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y5 loc-x5-y6)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y6 loc-x4-y7)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x4-y7 loc-x5-y8)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y8 loc-x5-y9)" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case 4" />
+		<event>
+			<string key="concept:name" value="(move loc-x5-y0 loc-x4-y1)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x4-y1 loc-x5-y2)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y2 loc-x5-y3)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y3 loc-x5-y4)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y4 loc-x5-y5)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y5 loc-x5-y6)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y6 loc-x5-y7)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y7 loc-x5-y8)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y8 loc-x5-y9)" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case 25" />
+		<event>
+			<string key="concept:name" value="(move loc-x5-y0 loc-x5-y1)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y1 loc-x5-y2)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y2 loc-x5-y3)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y3 loc-x5-y4)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y4 loc-x6-y5)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x6-y5 loc-x5-y6)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y6 loc-x5-y7)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y7 loc-x5-y8)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y8 loc-x5-y9)" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case 36" />
+		<event>
+			<string key="concept:name" value="(move loc-x5-y0 loc-x6-y1)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x6-y1 loc-x6-y2)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x6-y2 loc-x6-y3)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x6-y3 loc-x5-y4)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y4 loc-x5-y5)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y5 loc-x5-y6)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y6 loc-x5-y7)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y7 loc-x5-y8)" />
+		</event>
+		<event>
+			<string key="concept:name" value="(move loc-x5-y8 loc-x5-y9)" />
+		</event>
+	</trace>
+</log>

@@ -1,0 +1,1409 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log xes.version="1849-2016" xes.features="nested-attributes" xmlns="http://www.xes-standard.org/">
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext" />
+	<string key="origin" value="csv" />
+	<trace>
+		<string key="concept:name" value="case 8" />
+		<event>
+			<string key="concept:name" value="Start" />
+		</event>
+		<event>
+			<string key="concept:name" value="sleep" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="sleep" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="eatingdrinking" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="cleaning" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="work" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="sleep" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="mealpreperation" />
+		</event>
+		<event>
+			<string key="concept:name" value="eatingdrinking" />
+		</event>
+		<event>
+			<string key="concept:name" value="cleaning" />
+		</event>
+		<event>
+			<string key="concept:name" value="watchtv" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="End" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case 7" />
+		<event>
+			<string key="concept:name" value="Start" />
+		</event>
+		<event>
+			<string key="concept:name" value="sleep" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="sleep" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="eatingdrinking" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="cleaning" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="work" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="sleep" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="mealpreperation" />
+		</event>
+		<event>
+			<string key="concept:name" value="eatingdrinking" />
+		</event>
+		<event>
+			<string key="concept:name" value="cleaning" />
+		</event>
+		<event>
+			<string key="concept:name" value="watchtv" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="End" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case 27" />
+		<event>
+			<string key="concept:name" value="Start" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="sleep" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="sleep" />
+		</event>
+		<event>
+			<string key="concept:name" value="work" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="eatingdrinking" />
+		</event>
+		<event>
+			<string key="concept:name" value="cleaning" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="outdoors" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="sleep" />
+		</event>
+		<event>
+			<string key="concept:name" value="End" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case 19" />
+		<event>
+			<string key="concept:name" value="Start" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="sleep" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="mealpreperation" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="outdoors" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="eatingdrinking" />
+		</event>
+		<event>
+			<string key="concept:name" value="outdoors" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="outdoors" />
+		</event>
+		<event>
+			<string key="concept:name" value="sleep" />
+		</event>
+		<event>
+			<string key="concept:name" value="work" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="cleaning" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="outdoors" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="End" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case 21" />
+		<event>
+			<string key="concept:name" value="Start" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="sleep" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="mealpreperation" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="outdoors" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="eatingdrinking" />
+		</event>
+		<event>
+			<string key="concept:name" value="outdoors" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="outdoors" />
+		</event>
+		<event>
+			<string key="concept:name" value="sleep" />
+		</event>
+		<event>
+			<string key="concept:name" value="work" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="cleaning" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="outdoors" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="End" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case 22" />
+		<event>
+			<string key="concept:name" value="Start" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="sleep" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="mealpreperation" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="outdoors" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="eatingdrinking" />
+		</event>
+		<event>
+			<string key="concept:name" value="outdoors" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="outdoors" />
+		</event>
+		<event>
+			<string key="concept:name" value="sleep" />
+		</event>
+		<event>
+			<string key="concept:name" value="work" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="cleaning" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="outdoors" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="End" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case 2" />
+		<event>
+			<string key="concept:name" value="Start" />
+		</event>
+		<event>
+			<string key="concept:name" value="sleep" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="sleep" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="eatingdrinking" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="cleaning" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="work" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="sleep" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="mealpreperation" />
+		</event>
+		<event>
+			<string key="concept:name" value="eatingdrinking" />
+		</event>
+		<event>
+			<string key="concept:name" value="cleaning" />
+		</event>
+		<event>
+			<string key="concept:name" value="watchtv" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="End" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case 3" />
+		<event>
+			<string key="concept:name" value="Start" />
+		</event>
+		<event>
+			<string key="concept:name" value="sleep" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="sleep" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="eatingdrinking" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="cleaning" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="work" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="sleep" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="mealpreperation" />
+		</event>
+		<event>
+			<string key="concept:name" value="eatingdrinking" />
+		</event>
+		<event>
+			<string key="concept:name" value="cleaning" />
+		</event>
+		<event>
+			<string key="concept:name" value="watchtv" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="End" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case 5" />
+		<event>
+			<string key="concept:name" value="Start" />
+		</event>
+		<event>
+			<string key="concept:name" value="sleep" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="sleep" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="eatingdrinking" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="cleaning" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="work" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="sleep" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="mealpreperation" />
+		</event>
+		<event>
+			<string key="concept:name" value="eatingdrinking" />
+		</event>
+		<event>
+			<string key="concept:name" value="cleaning" />
+		</event>
+		<event>
+			<string key="concept:name" value="watchtv" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="End" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case 1" />
+		<event>
+			<string key="concept:name" value="Start" />
+		</event>
+		<event>
+			<string key="concept:name" value="dress" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="sleep" />
+		</event>
+		<event>
+			<string key="concept:name" value="dress" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="groom" />
+		</event>
+		<event>
+			<string key="concept:name" value="mealpreperation" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="groom" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="bathe" />
+		</event>
+		<event>
+			<string key="concept:name" value="dress" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="outdoors" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="mealpreperation" />
+		</event>
+		<event>
+			<string key="concept:name" value="eatingdrinking" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="read" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="read" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="sleep" />
+		</event>
+		<event>
+			<string key="concept:name" value="End" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case 10" />
+		<event>
+			<string key="concept:name" value="Start" />
+		</event>
+		<event>
+			<string key="concept:name" value="sleep" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="sleep" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="sleep" />
+		</event>
+		<event>
+			<string key="concept:name" value="mealpreperation" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="bathe" />
+		</event>
+		<event>
+			<string key="concept:name" value="dress" />
+		</event>
+		<event>
+			<string key="concept:name" value="groom" />
+		</event>
+		<event>
+			<string key="concept:name" value="outdoors" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="sleep" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="outdoors" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="outdoors" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="outdoors" />
+		</event>
+		<event>
+			<string key="concept:name" value="watchtv" />
+		</event>
+		<event>
+			<string key="concept:name" value="outdoors" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="outdoors" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="mealpreperation" />
+		</event>
+		<event>
+			<string key="concept:name" value="eatingdrinking" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="cleaning" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="read" />
+		</event>
+		<event>
+			<string key="concept:name" value="sleep" />
+		</event>
+		<event>
+			<string key="concept:name" value="End" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case 11" />
+		<event>
+			<string key="concept:name" value="Start" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="medication" />
+		</event>
+		<event>
+			<string key="concept:name" value="sleep" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="groom" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="outdoors" />
+		</event>
+		<event>
+			<string key="concept:name" value="groom" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="groom" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="mealpreperation" />
+		</event>
+		<event>
+			<string key="concept:name" value="eatingdrinking" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="cleaning" />
+		</event>
+		<event>
+			<string key="concept:name" value="groom" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="sleep" />
+		</event>
+		<event>
+			<string key="concept:name" value="End" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case 16" />
+		<event>
+			<string key="concept:name" value="Start" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="sleep" />
+		</event>
+		<event>
+			<string key="concept:name" value="mealpreperation" />
+		</event>
+		<event>
+			<string key="concept:name" value="bathe" />
+		</event>
+		<event>
+			<string key="concept:name" value="groom" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="outdoors" />
+		</event>
+		<event>
+			<string key="concept:name" value="sleep" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="outdoors" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="mealpreperation" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="outdoors" />
+		</event>
+		<event>
+			<string key="concept:name" value="watchtv" />
+		</event>
+		<event>
+			<string key="concept:name" value="outdoors" />
+		</event>
+		<event>
+			<string key="concept:name" value="cleaning" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="outdoors" />
+		</event>
+		<event>
+			<string key="concept:name" value="read" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="sleep" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="End" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case 17" />
+		<event>
+			<string key="concept:name" value="Start" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="sleep" />
+		</event>
+		<event>
+			<string key="concept:name" value="mealpreperation" />
+		</event>
+		<event>
+			<string key="concept:name" value="bathe" />
+		</event>
+		<event>
+			<string key="concept:name" value="groom" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="outdoors" />
+		</event>
+		<event>
+			<string key="concept:name" value="sleep" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="outdoors" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="mealpreperation" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="outdoors" />
+		</event>
+		<event>
+			<string key="concept:name" value="watchtv" />
+		</event>
+		<event>
+			<string key="concept:name" value="outdoors" />
+		</event>
+		<event>
+			<string key="concept:name" value="cleaning" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="outdoors" />
+		</event>
+		<event>
+			<string key="concept:name" value="read" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="sleep" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="End" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case 14" />
+		<event>
+			<string key="concept:name" value="Start" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="medication" />
+		</event>
+		<event>
+			<string key="concept:name" value="sleep" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="groom" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="outdoors" />
+		</event>
+		<event>
+			<string key="concept:name" value="groom" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="groom" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="mealpreperation" />
+		</event>
+		<event>
+			<string key="concept:name" value="eatingdrinking" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="cleaning" />
+		</event>
+		<event>
+			<string key="concept:name" value="groom" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="sleep" />
+		</event>
+		<event>
+			<string key="concept:name" value="End" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case 13" />
+		<event>
+			<string key="concept:name" value="Start" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="medication" />
+		</event>
+		<event>
+			<string key="concept:name" value="sleep" />
+		</event>
+		<event>
+			<string key="concept:name" value="snack" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="groom" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="outdoors" />
+		</event>
+		<event>
+			<string key="concept:name" value="groom" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="groom" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="toilet" />
+		</event>
+		<event>
+			<string key="concept:name" value="mealpreperation" />
+		</event>
+		<event>
+			<string key="concept:name" value="eatingdrinking" />
+		</event>
+		<event>
+			<string key="concept:name" value="relax" />
+		</event>
+		<event>
+			<string key="concept:name" value="cleaning" />
+		</event>
+		<event>
+			<string key="concept:name" value="groom" />
+		</event>
+		<event>
+			<string key="concept:name" value="personalhygiene" />
+		</event>
+		<event>
+			<string key="concept:name" value="sleep" />
+		</event>
+		<event>
+			<string key="concept:name" value="End" />
+		</event>
+	</trace>
+</log>
