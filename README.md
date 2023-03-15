@@ -1,6 +1,6 @@
 # Descriptions
 
-### Plan Recognition as Probabilistic Trace Alignment
+### Plan Recognition as Probabilistic Trace Alignment (Preparing to submit)
 
 1. Folder 'stochastic' includes datasets in stochastic setting and experimental codes
 
